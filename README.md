@@ -1,7 +1,7 @@
 ## Synopsis
 
 Vizually Search provides a unified interface to search the best of the web for data visualization and business intelligence. Each of the included sites in the custom search engine is hand curated for quality and avoid commercial vendor bias. 
-
+Please check out https://search.vizually.io
 
 ## Motivation
 
