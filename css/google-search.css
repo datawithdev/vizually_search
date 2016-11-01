@@ -1,0 +1,107 @@
+
+
+body,h1,h2,h3,h4,h5,p,ul,li,input,form,button {
+font-family: "Open Sans", Arial, sans-serif;
+}
+h1 { font-size:28px;}
+h2 { font-size:22px;}
+h3 { font-size:20px;}
+h4 { font-size:20px;}
+p, body, input, button, a, .panel .panel-title { font-size:18px;}
+h1,h2,h3,h4,.panel-title { font-weight: bold;}
+/* Google Custom Search */
+.ct-content {
+    margin-bottom: 80px;
+    margin-top: 15px;
+}
+.gs-result a.gs-visibleUrl,
+.gs-result .gs-visibleUrl {
+	color: #00bff3 !important;
+}
+.ct-sidenav .ct-search input {
+	color: #fff;
+}
+
+#searchForm input {
+	height: 58px;
+	height: 5.8rem;
+	line-height: 56px;
+	line-height: 5.6rem;
+	padding: 0 15px;
+	padding: 0 1.5rem;
+}
+
+#searchForm input {
+	border: 1px solid #acacac;
+	width: 100%;
+	background: #fff;
+	font-size: 19px;
+	font-size: 1.9rem;
+	color: #000;
+}
+
+#searchForm input[type=submit] {
+	background-color: #00A7E8;
+	color:#fff;
+	border:none;
+}
+
+#output a{
+	font-weight:bold;
+	color: #00A7E8;
+}
+#output a.searchLink{
+	font-weight:bold;
+	color: #0079c2;
+}
+
+#lnkPrev, #lnkNext{
+	font-weight:bold;
+	color: #0079c2;
+}
+
+.viz_searchbox {
+  background-image: url("../img/Vizually-Search-Background.jpg");
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+  height: 350px;
+}
+#searchResult { margin-bottom: 20px;}
+.viz_results { padding-top:50px; display: none;}
+.ct-content { margin-top:100px; }
+.viz_table {margin-bottom: 40px;}
+.viz_table img { border-radius: 10px; }
+.viz_table .viz_details { padding-left: 20px;}
+.tagline { color:white; text-align:center; padding:0 30px; margin-bottom: 30px;}
+.navbar-nav>li>a { font-size:16px;}
+#lnkPrev, #lnkNext { color:white;}
+
+
+@media only screen and (max-width: 767px) {
+   .fb-comments {
+    width: 100% !important;
+   }
+.fb-comments iframe[style] {
+   width: 100% !important;
+  }
+.fb-like-box {
+   width: 100% !important;
+  }
+.fb-like-box iframe[style] {
+   width: 100% !important;
+  }
+.fb-comments span {
+   width: 100% !important;
+  }
+.fb-comments iframe span[style] {
+   width: 100% !important;
+  }
+.fb-like-box span {
+   width: 100% !important;
+  }
+.fb-like-box iframe span[style] {
+   width: 100% !important;
+  }
+}
